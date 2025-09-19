@@ -1,4 +1,4 @@
-# 🛒 JavaScript Product Stand
+# 🛒 JavaScript Groente- en fruitkraam
 
 Dit project is een oefening om te leren werken met **JavaScript**, **DOM-manipulatie** en **event listeners**.  
 We bouwen een interactieve “fruit- en groentekraam” waar producten met emoji’s worden weergegeven.  
