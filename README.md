@@ -4,6 +4,9 @@ Dit project is een oefening om te leren werken met **JavaScript**, **DOM-manipul
 We bouwen een interactieve “fruit- en groentekraam” waar producten met emoji’s worden weergegeven.  
 Bij het klikken op een product verandert de voorraad, en dit wordt direct in de browser bijgewerkt.  
 
+<img width="1549" height="782" alt="image" src="https://github.com/user-attachments/assets/471ac013-e084-4ab4-8d59-3f1bf13af265" />
+
+
 ---
 
 ## ✨ Functionaliteit
