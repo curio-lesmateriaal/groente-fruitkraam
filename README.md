@@ -60,5 +60,12 @@ Met deze opdracht leer je:
 ---
 
 ## 💡 Uitbreidingsmogelijkheden
+- Toon de titel van het product boven de afbeelding
+  Toon de stukprijs van een product ergens naar wens
+- Voorraad per product kan nooit meer dan 100 zijn
+- Toon je budget ergens op het scherm
+- Bij ieder product wat je inkoopt gaat dit van je budget af
+- Een product kan niet ingekocht worden als je niet genoeg budget hebt.
+- Je budget verhoogt zich automatisch met 1.00 per 3 seconden.
 - Styling uitbreiden met **Tailwind CSS** of eigen CSS.
 - Products automatisch laden vanuit een **JSON-bestand**.
