@@ -40,24 +40,37 @@ Met deze opdracht leer je:
 
 5. **Gebruik van template literals**
    - Dynamisch HTML en tekst samenstellen met backticks (`` `... ${value} ...` ``).
-
 ---
 
-## 🛠️ Benodigdheden
-- Een basis HTML-bestand met een `div`-element met het id `product-stand`.
-- Het JavaScript-bestand met de code (zoals in dit voorbeeld).
-- Een browser om de code in te testen.
+## ℹ️ Dit project clonen
 
----
+Je kunt dit project op twee manieren clonen: via **GitHub Desktop** of via de **command line**.
 
-## 🚀 Gebruik
-1. Zet de HTML en JavaScript in hetzelfde project.
-2. Zorg dat in de HTML een `div` staat met `id="product-stand"`.
-3. Koppel het JavaScript-bestand via een `<script>`-tag.
-4. Open de pagina in de browser.
-5. Klik op een product en zie hoe de voorraad verandert!
+### 1. Via GitHub Desktop (Windows)
+1. Open **GitHub Desktop**.  
+2. Klik op **File > Clone Repository**.  
+3. Voer de URL van dit project in, bijvoorbeeld:  
+   `https://github.com/jouw-gebruikersnaam/jouw-project.git`  
+4. Kies een lokale map waar je het project wilt opslaan.  
+5. Klik op **Clone**.  
 
----
+### 2. Via Command Line
+1. Open een terminal (PowerShell, CMD of Git Bash).  
+2. Navigeer naar de map waar je het project wilt clonen:  
+    ```bash
+    cd path/naar/map
+    ```
+3. Voer het volgende commando uit:  
+    ```bash
+    git clone https://github.com/jouw-gebruikersnaam/jouw-project.git
+    ```
+4. Ga daarna de projectmap in:  
+    ```bash
+    cd jouw-project
+    ```
+
+
+
 
 ## 💡 Uitbreidingsmogelijkheden
 - Toon de titel van het product boven de afbeelding
