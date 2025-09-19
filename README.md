@@ -50,7 +50,7 @@ Je kunt dit project op twee manieren clonen: via **GitHub Desktop** of via de **
 1. Open **GitHub Desktop**.  
 2. Klik op **File > Clone Repository**.  
 3. Voer de URL van dit project in, bijvoorbeeld:  
-   `[https://github.com/jouw-gebruikersnaam/jouw-project.git](https://github.com/curio-lesmateriaal/groente-fruitkraam/)`  
+   `https://github.com/curio-lesmateriaal/groente-fruitkraam.git`  
 4. Kies een lokale map waar je het project wilt opslaan.  
 5. Klik op **Clone**.  
 
@@ -62,7 +62,7 @@ Je kunt dit project op twee manieren clonen: via **GitHub Desktop** of via de **
     ```
 3. Voer het volgende commando uit:  
     ```bash
-    git clone [ https://github.com/jouw-gebruikersnaam/jouw-project.git](https://github.com/curio-lesmateriaal/groente-fruitkraam/)
+    git clone https://github.com/curio-lesmateriaal/groente-fruitkraam.git
     ```
 4. Ga daarna de projectmap in:  
     ```bash
