@@ -60,7 +60,5 @@ Met deze opdracht leer je:
 ---
 
 ## 💡 Uitbreidingsmogelijkheden
-- Voorraad **verminderen** in plaats van verhogen.
-- Toevoegen van een **winkelmandje** met totaalprijs.
 - Styling uitbreiden met **Tailwind CSS** of eigen CSS.
 - Products automatisch laden vanuit een **JSON-bestand**.
